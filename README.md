@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jatin Bhagtani!
 
-🎓 Electronics & Communication Engineering student  
+🎓 Electronics & Communication Engineering Graduate  
 💻 Developer | Tech Explorer | Project Builder  
 🧠 Passionate about AI/ML, IoT, Quantum Computing & Cloud  
 📈 Currently working on AI/ML and quantum simulators
@@ -38,7 +38,7 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jatin-bhagtani)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)
 
 ---
