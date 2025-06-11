@@ -3,7 +3,7 @@
 🎓 Electronics & Communication Engineering student  
 💻 Developer | Tech Explorer | Project Builder  
 🧠 Passionate about AI/ML, IoT, Quantum Computing & Cloud  
-📈 Currently working on signal processing tools and quantum simulators
+📈 Currently working on AI/ML and quantum simulators
 
 ---
 
@@ -33,12 +33,6 @@
 | 📡 **Satellite Payload Web Interface** | Front-end interface to simulate satellite payload data monitoring (HTML/CSS/JS). |
 | 🧬 **ML Classifier Hub** | Multiple ML algorithms (SVM, KNN, RF) applied on real-world datasets for comparison. |
 | ⚙️ **Embedded Sensor Logger** | Python-based system with microcontroller to log temperature/humidity to local DB. |
-
----
-
-## 📈 GitHub Stats
-
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinbhagtani&show_icons=true&theme=github_dark)
 
 ---
 
